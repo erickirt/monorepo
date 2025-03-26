@@ -1,5 +1,11 @@
 # @inlang/plugin-i18next
 
+## 6.0.6
+
+### Patch Changes
+
+- @inlang/sdk@2.4.5
+
 ## 6.0.5
 
 ### Patch Changes
